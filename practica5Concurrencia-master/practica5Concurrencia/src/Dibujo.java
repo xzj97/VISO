@@ -127,7 +127,6 @@ public class Dibujo extends JFrame implements ActionListener {
         }
     }
 
-    // Define los atributos del dibujo
     private class Atributos {
 
         ColorFig col = ColorFig.negro;
