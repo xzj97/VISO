@@ -4,7 +4,7 @@
  * Cada planta tiene dos zonas: un pasillo y una zona de espera cercana al ascensor
  * 
  * @author (J. Javier Gutierrez) 
- * @version (25-9-2017)
+ * @version (25-9-2017) fdgfdgfdgfdgfdyhrthtrhrt
  */
 
 //import fundamentos.*;
