@@ -7,8 +7,8 @@
  * En ese momento se permutan las plantas origen y destino y se vuelve a iniciar el movimiento.
  * En todos los cambios de posicion se deja pasar el retraso indicado.
  * 
- * @author (J. Javier Gutierrez) 
- * @version (25-9-2017)
+ * @author sofia 
+ * @version 1.3
  */
 
 //import fundamentos.*;
